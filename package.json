@@ -1,0 +1,19 @@
+{
+  "name": "exec-server",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "exec.js": "git://github.com/fbrusch/exec.js",
+    "express": "~3.2.5",
+    "request": "~2.21.0",
+    "winston": "~0.7.1",
+    "express-winston": "~0.2.0"
+  }
+}
